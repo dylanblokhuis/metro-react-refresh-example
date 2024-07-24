@@ -1,0 +1,16 @@
+{
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "react": "18.3.1",
+        "react-dom": "^18.3.1"
+    },
+    "devDependencies": {
+        "@react-native/babel-preset": "^0.74.85",
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
+        "metro": "^0.80.9",
+        "metro-core": "^0.80.9",
+        "react-refresh": "^0.14.2"
+    }
+}
